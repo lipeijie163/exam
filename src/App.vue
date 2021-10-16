@@ -1,10 +1,9 @@
 <template>
-  <div id="app">
+  <div id="app" class="app">
 
   </div>
-  <router-view/>
 </template>
 
 <style>
-
+@import "assets/css/base.css";
 </style>
